@@ -4,8 +4,8 @@ public class Title {
 
 	public static void main(String[] args) {
 		
-		String hungry = "yes";
-		if (hungry ==  "yes")
+		String hungrei = "yes";
+		if (hungrei ==  "yes")
 		{
 		System.out.println("Go and Eat");
 		}
